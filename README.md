@@ -1,4 +1,4 @@
-# mypanorama
+## 360 Degree View App
 
 A new Flutter application.
 
